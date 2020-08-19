@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_what_needed" table="var__m_sys_decision_input_3b081314db72901008342fb748961978" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities 1</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:20:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98d4eb1cdb72901008342fb7489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:20:38</sys_updated_on>
+            <value>facilities1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities 2</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:20:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58e42f1cdb72901008342fb7489619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:20:55</sys_updated_on>
+            <value>facilities2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources 1</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:21:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28f42b1cdb72901008342fb748961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:21:11</sys_updated_on>
+            <value>hr1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources 2</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:21:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b805eb1cdb72901008342fb748961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:21:28</sys_updated_on>
+            <value>hr2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal 1</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:20:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88b4eb1cdb72901008342fb7489619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:20:05</sys_updated_on>
+            <value>legal1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal 2</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:20:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68c4eb1cdb72901008342fb74896197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:20:22</sys_updated_on>
+            <value>legal2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sequence/>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:21:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c15eb1cdb72901008342fb7489619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:21:41</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_what_needed</element>
+            <name>var__m_sys_decision_input_3b081314db72901008342fb748961978</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Marc.dapice</sys_created_by>
+            <sys_created_on>2020-08-19 11:20:05</sys_created_on>
+            <sys_id>6eb42b1cdb72901008342fb7489619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_3b081314db72901008342fb748961978_u_what_needed</sys_update_name>
+            <sys_updated_by>Marc.dapice</sys_updated_by>
+            <sys_updated_on>2020-08-19 11:20:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
